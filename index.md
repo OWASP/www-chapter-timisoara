@@ -60,9 +60,13 @@ Curelaru](mailto:catalin.curelaru@owasp.org).
 Next event:
 For details please check [Upcoming
 Events.](https://www.owasp.org/index.php/Timisoara#tab=Upcoming_events)\!
+
+<li>
 Past chapter leaders
 2015 - 2019 Cornel Punga
 2015 - 2019 Florina Rosiu
+
+</li>
 
 # Upcoming events
 
