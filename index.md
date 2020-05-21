@@ -52,9 +52,8 @@ If you want to present at one of our meetings / events (please read the
 
 In case that you have any questions about the OWASP Timisoara Chapter,
 send an email to
-[[mailto:catalin.curelaru@owasp.org](mailto:catalin.curelaru@owasp.org)
-Catalin
-Curelaru](mailto:catalin.curelaru@owasp.org_Catalin_Curelaru "wikilink")\]
+[Catalin
+Curelaru](mailto:catalin.curelaru@owasp.org).
 
 </li>
 
