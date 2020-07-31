@@ -7,6 +7,9 @@ level: 0
 
 region: Europe
 
+meetup-group: OWASP-Timisoara-Chapter
+country: Romania
+postal-code: 
 
 ---
 
