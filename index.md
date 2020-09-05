@@ -45,24 +45,22 @@ welcome and please just contact us.
 If you want to present at one of our meetings / events (please read the
 [speaker agreement](https://www.owasp.org/index.php/Speaker_Agreement)).
 
-<li>
 
 In case that you have any questions about the OWASP Timisoara Chapter,
 send an email to
 [Catalin
 Curelaru](mailto:catalin.curelaru@owasp.org).
 
-</li>
 
 Next event:
 For details please check [Upcoming
 Events.](https://www.owasp.org/index.php/Timisoara#tab=Upcoming_events)\!
 
-
+<li>
 Past chapter leaders
 2015 - 2019 Cornel Punga
 2015 - 2019 Florina Rosiu
-
+</li>
 # Upcoming events
 
 [Please see our Meetup page for more details and to register as
