@@ -37,19 +37,13 @@ Curelaru](mailto:catalin.curelaru@owasp.org).
 The Chapter Board Members are: Monica Iovan (Education), Ioana Piroska (
 PR/Marketing), Claudiu Ivan, Daniel Ilies.
 
-<li>
 
 Anyone who wants to get involved and help the Chapter evolve is very
 welcome and please just contact us.
 
-</li>
-
-<li>
 
 If you want to present at one of our meetings / events (please read the
 [speaker agreement](https://www.owasp.org/index.php/Speaker_Agreement)).
-
-</li>
 
 <li>
 
@@ -64,12 +58,10 @@ Next event:
 For details please check [Upcoming
 Events.](https://www.owasp.org/index.php/Timisoara#tab=Upcoming_events)\!
 
-<li>
+
 Past chapter leaders
 2015 - 2019 Cornel Punga
 2015 - 2019 Florina Rosiu
-
-</li>
 
 # Upcoming events
 
