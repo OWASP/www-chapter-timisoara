@@ -76,6 +76,21 @@ Past chapter leaders
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
+## OWASP Timisoara \#16: 24 September 2020
+
+Online Event - This summer at the #16 OWASP Timisoara edition you will find out from experts what pushes the industry further.
+We will explore the latest cyber trends in Bug Bounty, Responsible Disclosure Programs presented by the OWASP Timisoara Board members (Ioana Piroska & Daniel Ilies) and in Cyber threat Intelligence by Julius Nicklasson from Recorded Future.
+Summer sessions - Theme: Bug Bounty, Responsible Disclosure and Cyber Threat Intelligence
+
+`Schedule`
+**`18:00`**` Welcome participants`
+**`18:10`**` Working with Hackers (Bug Bounty and Responsible Disclosure Program) - Ioana Piroska (Visma) & Daniel Ilies (Visma) `
+**`18:45`**` Cyber Threat Intelligence - Julius Nicklasson`
+**`Time:`**` 18:00 to 21:00`
+
+
+# Past events
+
 ## OWASP Timisoara \#15: 11 December 2019
 
 Powered by UnifiedPost / Address: C. Brediceanu, 10, City Business
@@ -136,8 +151,6 @@ more insights if we participate into CTFs and how we can build a
 stronger security community.
 
 </li>
-
-# Past events
 
 ## OWASP Timisoara \#14: 29th August 2019
 
