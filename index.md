@@ -85,7 +85,7 @@ Summer sessions - Theme: Bug Bounty, Responsible Disclosure and Cyber Threat Int
 `Schedule`
 **`18:00`**` Welcome participants`
 **`18:10`**` Working with Hackers (Bug Bounty and Responsible Disclosure Program) - Ioana Piroska (Visma) & Daniel Ilies (Visma) `
-**`18:45`**` Cyber Threat Intelligence - Julius Nicklasson`
+**`18:45`**` Cyber Threat Intelligence - Julius Nicklasson (Recorded Future)`
 **`Time:`**` 18:00 to 21:00`
 
 
