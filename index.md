@@ -61,12 +61,13 @@ Past chapter leaders
 2015 - 2019 Cornel Punga
 2015 - 2019 Florina Rosiu
 </li>
+
 # Upcoming events
 
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
-## OWASP Timisoara \#7: 03 December 2020
+## OWASP Timisoara \#17: 03 December 2020
 Online Event - Due to #COVID19 in #Romania, we have to make the announcement that the #17 OWASP Timisoara Chapter meetup will be ONLINE.
 Winter sessions - Theme: Hackers Mindset + Web Indexing and Crawlers
 
@@ -86,9 +87,13 @@ Abstract: Google does a fine job of indexing the web for most purposes, but we o
 
 `Schedule`
 **`18:30`**` Welcome participants`
-**`18:40`**` Hackers and the hacker mindset - Per Olsson (Visma) `
+
+**`18:40`**` Hackers and the hacker mindset - Per Olsson (Visma)`
+
 **`19:15`**` The Unsearchables - Finding Things That Google Doesn't - Tom Hudson (Detectify)`
+
 **`19:50`**` Networking or Other Questions`
+
 **`Time:`**` 18:30 to 20:00`
 
 # Past events
@@ -182,37 +187,19 @@ POWERED BY Visma Romania
 
 ## 20th September 2016, OWASP InfoSecTM \#13
 
-<b>Speakers</b>
+`Speakers`
 
-<li>
+Matei-Eugen Vasile, ApTI -  Digital privacy și inamicii săi
 
-Matei-Eugen Vasile, ApTI
-<b>Title:</b> Digital privacy și inamicii săi
-
-</li>
-
-<li>
-
-Lucian Florin Ilca, Atos
-<b>Title:</b> Prezentarea și dezvoltarea vulnerabilităților la nivel de
-routere, switch-uri și access point-uri
-
-</li>
+Lucian Florin Ilca, Atos - Prezentarea și dezvoltarea vulnerabilităților la nivel de routere, switch-uri și access point-uri
 
 ## 31th May 2016, OWASP InfoSecTM \#12
 
+`Speakers`
 
-<b>Title: Be aware of your bugs, if you aren’t, someone else is. Part
-2</b>
-
-<b>Speakers</b>
-
-<li>
-
-Daniel BORCA - engine developer, <i>Bitdefender</i>
+Daniel BORCA - engine developer, <i>Bitdefender</i> - Be aware of your bugs, if you aren’t, someone else is
 
 ## 12th April 2016, OWASP InfoSecTM \#11
-
 
 <b>Title: Be aware of your bugs, if you aren’t, someone else is</b>
 The first session will introduce key concepts necessary in understanding
@@ -224,13 +211,9 @@ wild” and what can we do to prevent it.
 
 <b>Speakers</b>
 
-<li>
 
 Daniel BORCA - engine developer, <i>Bitdefender</i>
 
-</li>
-
-<li>
 
 Alin BARBATEI - malware researcher, <i>Bitdefender</i>
 ## 17th February 2016, OWASP InfoSecTM \#9
@@ -238,11 +221,11 @@ Alin BARBATEI - malware researcher, <i>Bitdefender</i>
 ## 15th december 2015, OWASP InfoSecTM \#8
 
 Previous speakers at OWASP Timisoara
-Andreea Bozesan
-Ciprian Lucaci
-Dan Negrea
-Radu Ciorbă
-Flavius Oprițoiu
+`Andreea Bozesan
+`Ciprian Lucaci
+`Dan Negrea
+`Radu Ciorbă
+`Flavius Oprițoiu
 
 # Sponsorship
 
