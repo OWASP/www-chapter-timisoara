@@ -66,6 +66,33 @@ Past chapter leaders
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
+## OWASP Timisoara \#7: 03 December 2020
+Online Event - Due to #COVID19 in #Romania, we have to make the announcement that the #17 OWASP Timisoara Chapter meetup will be ONLINE.
+Winter sessions - Theme: Hackers Mindset + Web Indexing and Crawlers
+
+`More about the speakers and topics`
+
+Per Olsson(repolsson), Application Security Engineer at Visma
+Per has a background as a developer focusing on the security aspects of software development, he has an unhealthy obsession with passwords and understanding the human behind the hoodie.
+
+*Hackers and the hacker mindset*
+Abstract: Per will talk about what hacking actually is, how a hacker thinks compared to for example a developer and about a few different types of hackers.
+
+Tom Hudson (TomNomNom), Security Research Tech Lead at Detectify
+Tom is from Bradford in the UK and he is a Open-source tool maker, trainer, talker, fixer, eater, not really a sheep.
+
+*The Unsearchables - Finding Things That Google Doesn't*
+Abstract: Google does a fine job of indexing the web for most purposes, but we often want to find things that "regular" people aren't so interested in. Let's take a look at some places you can look, and some techniques you can use to find things that Google doesn't index. We'll look at digging into git repository histories, Docker images, and a few other things to find secrets and other useful information.
+
+`Schedule`
+**`18:30`**` Welcome participants`
+**`18:40`**` Hackers and the hacker mindset - Per Olsson (Visma) `
+**`19:15`**` The Unsearchables - Finding Things That Google Doesn't - Tom Hudson (Detectify)`
+**`19:50`**` Networking or Other Questions`
+**`Time:`**` 18:30 to 20:00`
+
+# Past events
+
 ## OWASP Timisoara \#16: 24 September 2020
 
 Online Event - This summer at the #16 OWASP Timisoara edition you will find out from experts what pushes the industry further.
@@ -78,13 +105,9 @@ Summer sessions - Theme: Bug Bounty, Responsible Disclosure and Cyber Threat Int
 **`18:45`**` Cyber Threat Intelligence - Julius Nicklasson (Recorded Future)`
 **`Time:`**` 18:00 to 19:20`
 
-
-# Past events
-
 ## OWASP Timisoara \#15: 11 December 2019
 
-Powered by UnifiedPost / Address: C. Brediceanu, 10, City Business
-Center,Building D, 5th floor, Timisoara, Romania
+Powered by UnifiedPost / Address: C. Brediceanu, 10, City Business Center,Building D, 5th floor, Timisoara, Romania
 Winter sessions - Theme: Honeypots, Hacking and Community Building
 
 `Schedule`
@@ -100,11 +123,6 @@ Winter sessions - Theme: Honeypots, Hacking and Community Building
 POWERED BY UnifiedPost
 
 \> snacks and drinks on the house
-
-Miercuri, 11 Decembrie - ora 18:00
-
-C. Brediceanu, 10, City Business Center,Building D, 5th floor,
-Timisoara, Romania
 
 Winter sessions - Theme: Honeypots, Hacking and Community Building
 
@@ -215,80 +233,16 @@ Daniel BORCA - engine developer, <i>Bitdefender</i>
 <li>
 
 Alin BARBATEI - malware researcher, <i>Bitdefender</i>
-
+## 17th February 2016, OWASP InfoSecTM \#9
+## 17th February 2016, OWASP InfoSecTM \#9
 ## 15th december 2015, OWASP InfoSecTM \#8
 
-## 17th February 2016, OWASP InfoSecTM \#9
-
-
-
-  - <b>Title:</b> A new generation of cryptographic algorithms - IDEA
-    NXT".
-    <b>Speaker:</b> Andreea Bozesan
-    Discover the newest generation of symmetric block ciphers, their
-    capabilities, drawbacks and means of testability. A hardware
-    implementation is also analyzed for providing metrics to sustain the
-    theoretic aspects exposed in the first part of the presentation
-  - <b>Title:</b> Software Protection by Code Obfuscation
-    <b>Speaker:</b> Ciprian Lucaci
-    Complete protection of software against unauthorized access cannot
-    be fully guaranteed because with enough resources any protection
-    mechanism can eventually be overcome. Thus, the goal is usually to
-    make the job of the attacker as difficult as possible. One
-    possibility of protecting software intellectual property is through
-    different source code obfuscation techniques.
-    In this presentation I will briefly discuss different software
-    protection techniques and present virtualization obfuscation as an
-    effective protection mechanism. Virtualization obfuscation is a
-    particular obfuscation technique that aims to protect the
-    intellectual property of a software vendor by hiding the
-    control-flow of a program P. This talk will present the concept of
-    virtualization obfuscation by comparing by introducing the
-    advantages and disadvantages compared to other obfuscation
-    techniques.
-
-Check the event on
-FB[1](https://www.facebook.com/events/466855856850414/)
-\==15th March 2016, OWASP InfoSecTM \#10==
-<b>Presentations:</b>
-<i>Romanian description</i>
-
-<li>
-
-<b>Speaker:</b> Dan Negrea, Software Engineer în departamentul de
-Security al ACI.
-Ca departament ne ocupăm de securitatea produselor ACI. Aplication
-Security este o felie din ce în ce mai importantă din IT Security. Voi
-prezenta Cross-Site Request Forgery, care ocupă poziția 8 în Top-ul
-OWASP. Este o vulnerabilitate ușor de exploatat, implicând foarte puțin
-cod. Detectarea este de asemenea ușoară.
-
-Dacă ai un website și nu știi ce înseamnă CSRF, mai devreme sau mai
-târziu vei afla. Mai bine mai devreme :) Iar, ca simplu utilizator, vei
-afla câteva ”Best Practices”.
-
-</li>
-
-<li>
-
-<b>Speaker</b> Radu Ciorbă
-Linux and Python fanboy. Problemele de securitate vreau să le înțeleg în
-primul rând din curiozitate, dar și pentru a ști ce să evit în sistemele
-pe care le construiesc.
-
-Voi prezenta, pe scurt, "The Debian SSL Fiasco" sau cum puțină
-"curățenie în cod" bine intenționată a introdus unul dintre cele mai
-grave exploituri de securitate din Debian.
-
-</li>
-
-<li>
-
-<b>Speaker:</b> Flavius Oprițoiu
-Prezentarea este intitulată "Reliable implementations for cryptographic
-systems with testability facilities". Tema abordată o reprezintă
-testarea fără degradarea securității în contextul dispozitivelor
-criptografice.
+Previous speakers at OWASP Timisoara
+Andreea Bozesan
+Ciprian Lucaci
+Dan Negrea
+Radu Ciorbă
+Flavius Oprițoiu
 
 # Sponsorship
 
