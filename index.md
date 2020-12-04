@@ -23,6 +23,9 @@ Follow us on
 [Meetup.](https://www.meetup.com/OWASP-Timisoara-Chapter/)
 Follow us on
 [Linkedin.](https://www.linkedin.com/in/owasp-timisoara-chapter/)
+Subscribe on
+[YouTube.](https://www.youtube.com/channel/UCjGOJAJmtSIvuOY7PcLrm0A)
+
 Timisoara has an evolved software development community and one of the
 most important aspects that we aim to achieve is to continuously improve
 the application security world.
