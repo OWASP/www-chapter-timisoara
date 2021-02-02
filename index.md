@@ -70,6 +70,25 @@ Past chapter leaders
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
+## OWASP Timisoara \#18: TBD
+Online Event - Due to #COVID19 in #Romania, we have to make the announcement that the #18 OWASP Timisoara Chapter meetup will be ONLINE.
+Sessions - Theme: TBD
+
+TBD
+
+`Schedule`
+**`18:30`**` Welcome participants`
+
+**`18:40`**` 
+
+**`19:15`**` 
+
+**`19:50`**` Networking or Other Questions`
+
+**`Time:`**` 18:30 to 20:00`
+
+# Past events
+
 ## OWASP Timisoara \#17: 03 December 2020
 Online Event - Due to #COVID19 in #Romania, we have to make the announcement that the #17 OWASP Timisoara Chapter meetup will be ONLINE.
 Winter sessions - Theme: Hackers Mindset + Web Indexing and Crawlers
@@ -98,8 +117,6 @@ Abstract: Google does a fine job of indexing the web for most purposes, but we o
 **`19:50`**` Networking or Other Questions`
 
 **`Time:`**` 18:30 to 20:00`
-
-# Past events
 
 ## OWASP Timisoara \#16: 24 September 2020
 
