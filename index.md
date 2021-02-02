@@ -34,11 +34,11 @@ Everyone is welcome to join our chapter meetings, members and
 non-members. OWASP Timisoara Chapter meetings / events are free and
 open, so please join us\!
 
-The chapter leader is [Catalin
-Curelaru](mailto:catalin.curelaru@owasp.org).
+The chapter leaders are [Catalin
+Curelaru](mailto:catalin.curelaru@owasp.org) and [Daniel Ilies](mailto:d.ilies@owasp.org).
 
 The Chapter Board Members are: Monica Iovan (Education), Ioana Piroska (
-PR/Marketing), Claudiu Ivan, Daniel Ilies.
+PR/Marketing), Claudiu Ivan.
 
 
 Anyone who wants to get involved and help the Chapter evolve is very
