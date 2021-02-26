@@ -86,18 +86,22 @@ Detect complex code patterns using semantic grep - Bence Nagy (Semgrep)
 `More about the speakers and topics`
 
 Teofil Cojocariu, Application Security Engineering Lead @ Betfair Development Romania.
-`I'm focused on Application Security Engineering & Penetration Testing combined with CAMS mindset (Culture, Automation, Measurement, Sharing - DevSecOps) and I reported security bugs to Google, Facebook, Uber, Bitdefender, ING Bank, Yahoo or other companies. One of the most interesting thing is that I built a platform "Surface - Security Intelligence Automation Platform" which is being used by more than 900 people in Paddy Power Betfair, Flutter and I was the Security SME for a Private Cloud based on OpenStack with environments as code.`
+
+I'm focused on Application Security Engineering & Penetration Testing combined with CAMS mindset (Culture, Automation, Measurement, Sharing - DevSecOps) and I reported security bugs to Google, Facebook, Uber, Bitdefender, ING Bank, Yahoo or other companies. One of the most interesting thing is that I built a platform "Surface - Security Intelligence Automation Platform" which is being used by more than 900 people in Paddy Power Betfair, Flutter and I was the Security SME for a Private Cloud based on OpenStack with environments as code.
 
 *Surface Security - Security Intelligence Automation Platform*
-`Abstract: Our external attack surface is constantly growing, which gives external attackers the opportunity to continuously search for new attack vectors. In order to successfully respond to Security incidents we needed a centralized platform which aggregates all the data about our premises in a single place.`
+
+Abstract: Our external attack surface is constantly growing, which gives external attackers the opportunity to continuously search for new attack vectors. In order to successfully respond to Security incidents we needed a centralized platform which aggregates all the data about our premises in a single place.
 
 Surface Security (Security Intelligence Automation Platform) is an internally built tool which assists our internal Security teams to gain a holistic view about our externally exposed assets. More than that, it facilitates faster incident response based on the information correlated by it. Surface started as a small project in which we tried to close the gaps identified in our security controls. The platform's core is built in Django which is a Python-based open-source framework which has a fast learning curve. Besides Django, we're using technologies like Ansible (automation), Dkron (fault-tolerant jobs), Elasticsearch (Security metrics storage) and Grafana (reporting). During the whole period it gained a lot of traction in our company determining people to contribute to its success by implementing and suggesting new features. We're currently utilizing it for reporting the Security gaps to other areas of key business areas and for Security controls like: monitoring our externally exposed assets, vulnerability management, security incidents, bug bounty reports and penetration testing.
 
 Bence Nagy, software engineer @ r2c.
-`Bence Nagy is a software engineer at r2c, working on Semgrep, an open-source syntax-aware code search tool. At r2c, his responsibilities tend towards building various interfaces atop the core semgrep CLI. These include CI integrations, editor extensions, and the semgrep.dev web app. He previously led a developer experience team at Kiwi.com, the Czech Republic’s top startup at the time of its acquisition in 2019. You should totally ask him for video game recommendations after the talk.`
+
+Bence Nagy is a software engineer at r2c, working on Semgrep, an open-source syntax-aware code search tool. At r2c, his responsibilities tend towards building various interfaces atop the core semgrep CLI. These include CI integrations, editor extensions, and the semgrep.dev web app. He previously led a developer experience team at Kiwi.com, the Czech Republic’s top startup at the time of its acquisition in 2019. You should totally ask him for video game recommendations after the talk.`
 
 *Detect complex code patterns using semantic grep*
-`Abstract: We’ll discuss a program analysis tool we’re developing called Semgrep. It's a multilingual semantic tool for writing security and correctness queries on source code (for Python, Java, Go, C, and JS) with a simple “grep-like” interface. The original author, Yoann Padioleau, worked on Semgrep’s predecessor, Coccinelle, for Linux kernel refactoring, and later developed Semgrep while at Facebook. He’s now full time with us at r2c.
+
+Abstract: We’ll discuss a program analysis tool we’re developing called Semgrep. It's a multilingual semantic tool for writing security and correctness queries on source code (for Python, Java, Go, C, and JS) with a simple “grep-like” interface. The original author, Yoann Padioleau, worked on Semgrep’s predecessor, Coccinelle, for Linux kernel refactoring, and later developed Semgrep while at Facebook. He’s now full time with us at r2c.
 
 Semgrep is a free open-source program analysis toolkit that finds bugs using custom analysis we’ve written and OSS code checks. Semgrep is ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
 
@@ -108,7 +112,7 @@ import subprocess as s
 s.open(f'rm {args}', shell=True)
 
 Or find hardcoded credentials using the query:
-boto3.client(..., aws_secret_access_key=”...”, aws_access_key_id=”...” )`
+boto3.client(..., aws_secret_access_key=”...”, aws_access_key_id=”...” )
 
 
 # Past events
