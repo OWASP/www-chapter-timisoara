@@ -75,6 +75,7 @@ The next OWASP Timisoara Chapter Meeting will be online.
 > Spring sessions - Theme: Security Automation & Intelligence, Code Patters
 
 `Schedule`
+
 Introduction, OWASP News & Updates - Catalin Curelaru
 
 Surface Security - Security Intelligence Automation Platform - Teofil Cojocariu (Paddy Power Betfair) 
