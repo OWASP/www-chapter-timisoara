@@ -70,19 +70,45 @@ Past chapter leaders
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
-## OWASP Timisoara \#18: 18 March 2021
+## OWASP Timisoara \#19: 17 June 2021
 The next OWASP Timisoara Chapter Meeting will be online.
-> Spring sessions - Theme: Security Automation & Intelligence, Code Patters
+> Summer sessions - Theme: Threat Modeling & Iterative Security
 
 `Schedule`
 
 Introduction, OWASP News & Updates - Catalin Curelaru
 
-Surface Security - Security Intelligence Automation Platform - Teofil Cojocariu (Paddy Power Betfair) 
+Challenges and Experiences with Threat Modeling in Agile Development Projects - Monica Iovan (Visma) & Daniela S. Cruzes (NTNU)
 
-Detect complex code patterns using semantic grep - Bence Nagy (Semgrep)
+Security through an iterative process - Dario Cavallaro (Cisco)
 
 **`Time:`**` 18:30 to 20:30`
+
+`More about the speakers and topics`
+
+Dr. Monica Iovan, Head of Security Development @ Visma.
+
+Dr. Monica Iovan, Head of Security Development, Visma; In her free time, Monica enjoys peaceful moments in nature and the company of a good book. She is a passionate researcher having the goal of simplifying the use of security services within Agile development. She leads the security development team in Visma and conducts research on security in agile software development
+
+Dr. Daniela S. Cruzes, Professor @ Norwegian University of Science and Technology (NTNU)
+
+Dr. Daniela S. Cruzes is a Professor at the Norwegian University of Science and Technology (NTNU). Previously, she worked as a senior research scientist at SINTEF in Norway. She has also been a researcher fellow at the University of Maryland and Fraunhofer Center for Experimental Software Engineering-Maryland. Dr. Daniela Cruzes received her PhD in experimental software engineering from the University of Campinas - UNICAMP in Brazil in 2007. Her research interests are empirical software engineering, research methods and theory development, synthesis of SE studies, software security, software testing and agile and DevOps
+
+
+*Challenges and Experiences with Threat Modeling in Agile Development Projects*
+
+Abstract: The goal of secure software engineering is to create software that keeps performing as intended even when exposed to attacks. Threat modeling is considered to be a key activity, but can be challenging to perform for developers, and even more so in agile software development. Hence, threat modeling has not seen widespread use in agile software projects. The goal of the presentation is to show some of these challenges and approaches that the teams are working on.
+
+Dario Cavallaro, EMEAR Manager - Security Customer Success Specialists @ Cisco.
+
+*Security through an iterative process*
+
+Abstract: Security through an iterative process is a collection of notes collected in 15+ years' experience. We will go through what has worked for most companies, some myths and some of the common things that are typically missing, but that everybody wants.
+
+
+# Past events
+## OWASP Timisoara \#18: 18 March 2021
+> Spring sessions - Theme: Security Automation & Intelligence, Code Patters
 
 `More about the speakers and topics`
 
@@ -105,18 +131,6 @@ Bence Nagy is a software engineer at r2c, working on Semgrep, an open-source syn
 Abstract: We’ll discuss a program analysis tool we’re developing called Semgrep. It's a multilingual semantic tool for writing security and correctness queries on source code (for Python, Java, Go, C, and JS) with a simple “grep-like” interface. The original author, Yoann Padioleau, worked on Semgrep’s predecessor, Coccinelle, for Linux kernel refactoring, and later developed Semgrep while at Facebook. He’s now full time with us at r2c.
 
 Semgrep is a free open-source program analysis toolkit that finds bugs using custom analysis we’ve written and OSS code checks. Semgrep is ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
-
-For example, find subprocess calls with shell=True in Python using the query:
-subprocess.open(..., shell=True)
-This will even find snippets like:
-import subprocess as s
-s.open(f'rm {args}', shell=True)
-
-Or find hardcoded credentials using the query:
-boto3.client(..., aws_secret_access_key=”...”, aws_access_key_id=”...” )
-
-
-# Past events
 
 ## OWASP Timisoara \#17: 03 December 2020
 Online Event - Due to #COVID19 in #Romania, we have to make the announcement that the #17 OWASP Timisoara Chapter meetup will be ONLINE.
