@@ -99,7 +99,7 @@ Dr. Daniela S. Cruzes is a Professor at the Norwegian University of Science and 
 
 Abstract: The goal of secure software engineering is to create software that keeps performing as intended even when exposed to attacks. Threat modeling is considered to be a key activity, but can be challenging to perform for developers, and even more so in agile software development. Hence, threat modeling has not seen widespread use in agile software projects. The goal of the presentation is to show some of these challenges and approaches that the teams are working on.
 
-Dario Cavallaro, EMEAR Manager - Security Customer Success Specialists @ Cisco.
+Dario Cavallaro, Security Customer Success Specialists @ Cisco.
 
 *Security through an iterative process*
 
