@@ -330,7 +330,4 @@ membership](Membership "wikilink"). Ready to become a member?
 
 ## Chapter Supporters
 
-<b>Chapter Supporters</b>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:](Category:{region}}} "wikilink")
