@@ -75,7 +75,7 @@ attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 ## OWASP Timisoara \#20: 09 December 2021
 The next OWASP Timisoara Chapter Meeting will be online.
 
-> Summer sessions - Theme: AI, Bug Bounty & Web Fuzzing
+> Winter sessions - Theme: AI, Bug Bounty & Web Fuzzing
 `Schedule`
 
 Introduction, OWASP News & Updates - Catalin Curelaru
