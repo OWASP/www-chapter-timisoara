@@ -72,6 +72,37 @@ Past chapter leaders
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
+## OWASP Timisoara \#20: 09 December 2021
+The next OWASP Timisoara Chapter Meeting will be online.
+> Summer sessions - Theme: Threat Modeling & Iterative Security
+`Schedule`
+
+Introduction, OWASP News & Updates - Catalin Curelaru
+AI in Security - Robbe Van Roey (Intigriti)
+FFUF - Fuzz Faster, U're ****ed ... (The good, the bad and the ugly of web fuzzing) - Joona Hoikkala (Visma)
+
+**`Time:`**` 18:30 to 20:30`
+
+`More about the speakers and topics`
+
+Robbe Van Roey - Hacker Manager @ Intigriti
+Robbe Van Roey or better known as PinkDraconian finished his studies in AI & robotics, but because of his passion for cybersecurity, he became the Hacker Manager for the popular bug bounty platform Intigriti. Besides his work life, he runs a YouTube channel where he details challenges, CVEs, and all kinds of cybersecurity related topics in videos. Check him out on twitter (@PinkDraconian) 
+
+*AI in Security*
+Asbtract: Artificial intelligence has been the driving development factor in many industries over the past decade, but what about the cybersecurity industry? In this presentation, I would like to introduce all of you into what AI could mean for you in the cybersecurity field. We're going on a journey on what is possible and what will be possible when combining AI with cybersecurity.
+
+Joona Hoikkala - Red Team Manager @Visma
+Working as red team manager at Visma, Joona is a hacker that has experience from multiple vantage points and aspects of information security, software development and brewing. He's an open so(u)rcerer and has built or contributed to a wide variety of security tools, both offensive and defensive. This talk is discussing both positive and negative phenomenom around a web fuzzing tool he built and maintains: ffuf, or: "fuzz faster u fool".
+
+*FFUF - Fuzz Faster, U're ****ed ... The good, the bad and the ugly of web fuzzing*
+Abstract:
+Web fuzzing is a powerful method for automating the boring tasks in both black box, and gray box testing of web applications. There's only so much one can do when approaching this kind of target manually but with proper tooling the server resources are the only limit. Wait? Server resources being the limit?
+
+Penetration testers, bug bounty hunters, security researchers and criminals are using the same techniques for different purposes. What happens when you are able to send tens of thousands of requests from your laptop, over the internet to a target. What if you scale it up horizontally, doing the same thing from hundreds of sources? What if the responding endpoint is intentionally slow - a login for example?
+
+At the cloud-native age, rate limiting might seem as an ancient thing from a distant past but for the very same reasons it's more relevant than ever...
+
+# Past events
 ## OWASP Timisoara \#19: 17 June 2021
 The next OWASP Timisoara Chapter Meeting will be online.
 > Summer sessions - Theme: Threat Modeling & Iterative Security
@@ -107,8 +138,6 @@ Dario Cavallaro, Security Customer Success Specialists @ Cisco.
 
 Abstract: Security through an iterative process is a collection of notes collected in 15+ years' experience. We will go through what has worked for most companies, some myths and some of the common things that are typically missing, but that everybody wants.
 
-
-# Past events
 ## OWASP Timisoara \#18: 18 March 2021
 > Spring sessions - Theme: Security Automation & Intelligence, Code Patters
 
