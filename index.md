@@ -67,8 +67,6 @@ Past chapter leaders
 
 # Upcoming events
 
-{% include chapter_events.html group=page.meetup-group %}
-
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
