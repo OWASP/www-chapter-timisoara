@@ -74,6 +74,7 @@ attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 The next OWASP Timisoara Chapter Meeting will be online.
 
 > Theme sessions - Theme: Recon, Vulnerabilities, Bug Hunting
+
 `Schedule`
 
 Introduction, OWASP News & Updates - Catalin Curelaru
