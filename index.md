@@ -3,13 +3,9 @@
 layout: col-sidebar
 title: OWASP Timisoara
 tags: example-tag
-level: 0
-
 region: Europe
-
 meetup-group: OWASP-Timisoara-Chapter
 country: Romania
-postal-code: 
 
 ---
 
