@@ -22,6 +22,10 @@ Follow us on
 Subscribe on
 [YouTube.](https://www.youtube.com/channel/UCjGOJAJmtSIvuOY7PcLrm0A)
 
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
+
 Timisoara has an evolved software development community and one of the
 most important aspects that we aim to achieve is to continuously improve
 the application security world.
@@ -378,17 +382,6 @@ agreement](Speaker_Agreement "wikilink") and then contact the local
 chapter leader with details of what OWASP PROJECT, independent research
 or related software security topic you would like to present on.
 
-## Sponsorship/Membership
 
-![Btn_donate_SM.gif](Btn_donate_SM.gif "Btn_donate_SM.gif") to this
-chapter or become a local chapter supporter. Or consider the value of
-[Individual, Corporate, or Academic Supporter
-membership](Membership "wikilink"). Ready to become a member?
-![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
-"Join_Now_BlueIcon.JPG")
-
-\#if:| }}
-
-## Chapter Supporters
 
 
