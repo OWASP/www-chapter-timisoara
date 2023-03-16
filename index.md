@@ -37,10 +37,6 @@ open, so please join us\!
 The chapter leaders are [Catalin
 Curelaru](mailto:catalin.curelaru@owasp.org) and [Daniel Ilies](mailto:d.ilies@owasp.org).
 
-The Chapter Board Members are: Monica Iovan (Education), Ioana Piroska (
-PR/Marketing), Claudiu Ivan.
-
-
 Anyone who wants to get involved and help the Chapter evolve is very
 welcome and please just contact us.
 
