@@ -66,6 +66,38 @@ Past chapter leaders
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
+## OWASP Timisoara \#22: 08 June 2023
+The next OWASP Timisoara Chapter Meeting will be in person.
+
+> Theme sessions - Theme: CyberSecurity Ecosystem, Cloud Security
+
+`Schedule`
+**`Time:`**` 18:00 to 20:00`
+
+Introduction, OWASP News & Updates - Catalin Curelaru
+
+CyberSecurity Ecosystem - Octavian STANCU (ATOS)
+
+Security Log Management - Adrian PAUL (Visma)
+
+Improving security in AWS Cognito - Lucian Patian (Haufe)
+
+
+**`18:00`**` Welcome participants`
+**`18:15`**` Introduction, OWASP News & Updates - Catalin Curelaru `
+**`18:30`**` CyberSecurity Ecosystem - Octavian STANCU (ATOS)`
+**`19:00`**` Security Log Management - Adrian PAUL (Visma)`
+**`19:30`**` Break with drinks`
+**`19:40`**` Improving security in AWS Cognito - Lucian Patian (Haufe)`
+**`20:10`**` Networking - Pizza`
+**`Time:`**` 18:00 to 21:00`
+
+`More about the speakers and topics`
+
+
+
+# Past events
+
 ## OWASP Timisoara \#21: 23 June 2022
 The next OWASP Timisoara Chapter Meeting will be online.
 
@@ -90,15 +122,12 @@ Daniel is a Senior Manager and Ethical Hacker at KPMG Romania by day. By night, 
 *Work harder, not smarter!*
 Asbtract: Every memorable presentation within the infosec community teaches you how to enumerate more, automate everything and generally work "smarter" by letting cool tools do the job for you even when you sleep. But what if you are the kind of person which likes to get their hands dirty and actually find vulnerabilities the old-fashioned way? In the age of speed, is it still possible for hard work to beat automation? This presentation will highlight the advantages of actually putting hard work into exploiting the unexploitable and the difference it makes in terms of impact.
 
-
 Alexis Fernandez - Read Team engineer @Visma
 
 Read Team operator at Visma, pentester and bug hunter with extensive experience in Linux systems administration and programming. In love with assets recon and discovery techniques. ReconFTW and PentestBook author.
 
 *Recon tips and tricks*
 Abstract:In this talk I will explain some hidden gems to perform a better and deeper reconnaissance of your targets, especially when it comes to subdomains enumeration, but also the rest of the phases.
-
-# Past events
 
 ## OWASP Timisoara \#20: 09 December 2021
 The next OWASP Timisoara Chapter Meeting will be online.
