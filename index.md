@@ -72,7 +72,7 @@ The next OWASP Timisoara Chapter Meeting will be in person.
 > Theme sessions - Theme: CyberSecurity Ecosystem, Cloud Security
 
 `Schedule`
-**`Time:`**` 18:00 to 20:00`
+**`Time:`**` 18:00 to 21:00`
 
 Introduction, OWASP News & Updates - Catalin Curelaru
 
@@ -84,12 +84,19 @@ Improving security in AWS Cognito - Lucian Patian (Haufe)
 
 
 **`18:00`**` Welcome participants`
-**`18:15`**` Introduction, OWASP News & Updates - Catalin Curelaru `
+
+**`18:15`**` Introduction, OWASP News & Updates - Catalin Curelaru`
+
 **`18:30`**` CyberSecurity Ecosystem - Octavian STANCU (ATOS)`
+
 **`19:00`**` Security Log Management - Adrian PAUL (Visma)`
+
 **`19:30`**` Break with drinks`
+
 **`19:40`**` Improving security in AWS Cognito - Lucian Patian (Haufe)`
+
 **`20:10`**` Networking - Pizza`
+
 **`Time:`**` 18:00 to 21:00`
 
 `More about the speakers and topics`
