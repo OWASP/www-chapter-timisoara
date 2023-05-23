@@ -100,7 +100,17 @@ Improving security in AWS Cognito - Lucian Patian (Haufe)
 **`Time:`**` 18:00 to 21:00`
 
 `More about the speakers and topics`
+Octavian STANCU - Head of Cybersecurity Services @ATOS
 
+Octavian STANCU is an experienced Unit Lead and IT Instructor with a demonstrated history of working in the Information Technology and Services industry, specifically in the fields of Cybersecurity, Networking and Telecommunications. As the Head of Cybersecurity Services at Eviden, an Atos business, Octavian brings extensive expertise and a strong track record in managing and delivering Cybersecurity services and solutions.
+
+Adrian PAUL - CyberSecurity Engineering Manager @ VISMA
+
+Lucian Pătian - Cloud Solutions Architect @ Haufe Group
+Lucian Pătian is a Cloud Solutions Architect at Haufe Group Timisoara. With a SysAdmin background, for the past four years, he has earned a reputation for finding creative solutions to problems in Cloud.
+
+ *Improving security in AWS Cognito*
+Abstract: We will discuss about why using the standard configurations in Cognito can make your application a security honeypot. How can you use AWS WAF to add an extra layer of protection and why using verified token attributes should be a must
 
 
 # Past events
