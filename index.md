@@ -107,9 +107,11 @@ Octavian STANCU is an experienced Unit Lead and IT Instructor with a demonstrate
 Adrian PAUL - CyberSecurity Engineering Manager @ VISMA
 
 Lucian Pătian - Cloud Solutions Architect @ Haufe Group
+
 Lucian Pătian is a Cloud Solutions Architect at Haufe Group Timisoara. With a SysAdmin background, for the past four years, he has earned a reputation for finding creative solutions to problems in Cloud.
 
  *Improving security in AWS Cognito*
+
 Abstract: We will discuss about why using the standard configurations in Cognito can make your application a security honeypot. How can you use AWS WAF to add an extra layer of protection and why using verified token attributes should be a must
 
 
