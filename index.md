@@ -102,19 +102,19 @@ Improving security in AWS Cognito - Lucian Patian (Haufe)
 `More about the speakers and topics`
 
 
-Octavian STANCU - Head of Cybersecurity Services @Eviden GDC Romania, an Atos business
+**Octavian STANCU** - Head of Cybersecurity Services @Eviden GDC Romania, an Atos business
 
 Octavin Stancu is an experienced Unit Lead and IT Instructor with a demonstrated history of working in the Information Technology industry, specifically in the fields of Cybersecurity, Networking and Telecommunications. As the Head of Cybersecurity Services, Octavian brings within Global Delivery Center Romania extensive expertise and a strong track record in managing and delivering Cybersecurity services and solutions.
 
-Adrian PAUL - CyberSecurity Engineering Manager @ VISMA
+**Adrian PAUL** - CyberSecurity Engineering Manager @ VISMA
 I love information technology, passionate to learn about it, and always looking to put the pieces together. Currently, in the conspicuous role of managing the Cyber Security Engineering team that is in charge of implementation, maintenance and development of multiple security services at Visma. When time permits, I enjoy running and volunteering.
 
 *Security Log Management*
-Ensuring the confidentiality, integrity, and availability of the modern digital enterprise is not an easy task. It involves many parallel and related efforts, from systems engineering to effective cybersecurity policy and comprehensive workforce training. The essential elements in cybersecurity operations are monitoring, analyzing, responding to, and recovering from cyber attacks. Behind the scenes, programs and policies must be put into place to support cybersecurity operations.
+Abstract: Ensuring the confidentiality, integrity, and availability of the modern digital enterprise is not an easy task. It involves many parallel and related efforts, from systems engineering to effective cybersecurity policy and comprehensive workforce training. The essential elements in cybersecurity operations are monitoring, analyzing, responding to, and recovering from cyber attacks. Behind the scenes, programs and policies must be put into place to support cybersecurity operations.
 Organizations are starting to use cloud computing to take advantage of its many benefits, including cost savings, quick time-to-market, and on-demand scaling of the environment. To improve security visibility in the cloud, security operations teams will want to develop a continuous monitoring strategy that uses a combination of cloud-native services and third-party options for the Security Log Management solution. The strategy needs to provide the most complete range of coverage for both proactively assessing the environment and detecting unusual events or anomalous behaviour rapidly. Additionally, a Security Log Management focused on automation and machine learning, alongside new and updated types of monitoring, will evolve into a Next-generation Security Information and Event Management (NG-SIEM) solution.
 Logging is a vital part of cybersecurity, as it enables you to detect breaches and identify their source. With a robust Security Log Management solution, you can monitor your environments for unusual activity and take action to stop it before it develops into a full-blown attack. By taking the time to develop a comprehensive logging strategy, you can not only mitigate the potential damage of a cyber attack, but also learn important lessons about how to improve your solution for the future.
 
-Lucian Pătian - Cloud Solutions Architect @ Haufe Group
+**Lucian Pătian** - Cloud Solutions Architect @ Haufe Group
 
 Lucian Pătian is a Cloud Solutions Architect at Haufe Group Timisoara. With a SysAdmin background, for the past four years, he has earned a reputation for finding creative solutions to problems in Cloud.
 
