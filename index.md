@@ -100,6 +100,8 @@ Improving security in AWS Cognito - Lucian Patian (Haufe)
 **`Time:`**` 18:00 to 21:00`
 
 `More about the speakers and topics`
+
+
 Octavian STANCU - Head of Cybersecurity Services @Eviden GDC Romania, an Atos business
 
 Octavin Stancu is an experienced Unit Lead and IT Instructor with a demonstrated history of working in the Information Technology industry, specifically in the fields of Cybersecurity, Networking and Telecommunications. As the Head of Cybersecurity Services, Octavian brings within Global Delivery Center Romania extensive expertise and a strong track record in managing and delivering Cybersecurity services and solutions.
