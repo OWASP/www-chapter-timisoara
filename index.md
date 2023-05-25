@@ -76,7 +76,7 @@ The next OWASP Timisoara Chapter Meeting will be in person.
 
 Introduction, OWASP News & Updates - Catalin Curelaru
 
-CyberSecurity Ecosystem - Octavian STANCU (ATOS)
+CyberSecurity Ecosystem - Octavian STANCU (Eviden)
 
 Security Log Management - Adrian PAUL (Visma)
 
@@ -87,7 +87,7 @@ Improving security in AWS Cognito - Lucian Patian (Haufe)
 
 **`18:15`**` Introduction, OWASP News & Updates - Catalin Curelaru`
 
-**`18:30`**` CyberSecurity Ecosystem - Octavian STANCU (ATOS)`
+**`18:30`**` CyberSecurity Ecosystem - Octavian STANCU (Eviden)`
 
 **`19:00`**` Security Log Management - Adrian PAUL (Visma)`
 
@@ -100,9 +100,9 @@ Improving security in AWS Cognito - Lucian Patian (Haufe)
 **`Time:`**` 18:00 to 21:00`
 
 `More about the speakers and topics`
-Octavian STANCU - Head of Cybersecurity Services @ATOS
+Octavian STANCU - Head of Cybersecurity Services @Eviden GDC Romania, an Atos business
 
-Octavian STANCU is an experienced Unit Lead and IT Instructor with a demonstrated history of working in the Information Technology and Services industry, specifically in the fields of Cybersecurity, Networking and Telecommunications. As the Head of Cybersecurity Services at Eviden, an Atos business, Octavian brings extensive expertise and a strong track record in managing and delivering Cybersecurity services and solutions.
+Octavin Stancu is an experienced Unit Lead and IT Instructor with a demonstrated history of working in the Information Technology industry, specifically in the fields of Cybersecurity, Networking and Telecommunications. As the Head of Cybersecurity Services, Octavian brings within Global Delivery Center Romania extensive expertise and a strong track record in managing and delivering Cybersecurity services and solutions.
 
 Adrian PAUL - CyberSecurity Engineering Manager @ VISMA
 I love information technology, passionate to learn about it, and always looking to put the pieces together. Currently, in the conspicuous role of managing the Cyber Security Engineering team that is in charge of implementation, maintenance and development of multiple security services at Visma. When time permits, I enjoy running and volunteering.
