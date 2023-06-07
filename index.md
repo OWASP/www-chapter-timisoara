@@ -8,11 +8,9 @@ meetup-group: OWASP-Timisoara-Chapter
 country: Romania
 
 ---
-
 # Welcome
 
 ## Welcome to the OWASP Timisoara Chapter Homepage
-
 
 Follow us on [Twitter.](https://twitter.com/OwaspT)
 Follow us on
@@ -21,10 +19,6 @@ Follow us on
 [Linkedin.](https://www.linkedin.com/in/owasp-timisoara-chapter/)
 Subscribe on
 [YouTube.](https://www.youtube.com/channel/UCjGOJAJmtSIvuOY7PcLrm0A)
-
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
 
 Timisoara has an evolved software development community and one of the
 most important aspects that we aim to achieve is to continuously improve
@@ -61,7 +55,7 @@ Past chapter leaders
 2015 - 2019 Florina Rosiu
 </li>
 
-# Upcoming events
+# Next Meeting/Event
 
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
