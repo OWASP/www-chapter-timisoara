@@ -70,6 +70,7 @@ attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 The next OWASP Timisoara Chapter Meeting will be in person.
 
 > Theme sessions - Theme: CyberSecurity Ecosystem, Cloud Security
+
 POWERED BY VISMA
 
 `Schedule`
@@ -99,6 +100,7 @@ Improving security in AWS Cognito - Lucian Patian (Haufe)
 **`20:10`**` Networking - Pizza`
 
 **`Time:`**` 18:00 to 21:00`
+
 POWERED BY VISMA
 
 `More about the speakers and topics`
