@@ -22,9 +22,7 @@ Subscribe on
 
 Timisoara has an evolved software development community and one of the
 most important aspects that we aim to achieve is to continuously improve
-the application security world.
-
-Everyone is welcome to join our chapter meetings, members and
+the application security world. Everyone is welcome to join our chapter meetings, members and
 non-members. OWASP Timisoara Chapter meetings / events are free and
 open, so please join us\!
 
@@ -32,13 +30,8 @@ The chapter leaders are [Catalin
 Curelaru](mailto:catalin.curelaru@owasp.org) and [Daniel Ilies](mailto:d.ilies@owasp.org).
 
 Anyone who wants to get involved and help the Chapter evolve is very
-welcome and please just contact us.
-
-
-If you want to present at one of our meetings / events (please read the
+welcome and please just contact us. If you want to present at one of our meetings / events (please read the
 [speaker agreement](https://www.owasp.org/index.php/Speaker_Agreement)).
-
-
 In case that you have any questions about the OWASP Timisoara Chapter,
 send an email to
 [Catalin
