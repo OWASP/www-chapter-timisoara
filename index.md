@@ -53,6 +53,67 @@ Past chapter leaders
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
+## OWASP Timisoara \#24: Bug Bounty and Cloud Security [ONLINE]
+The next OWASP Timisoara Chapter Meetup will be Online
+
+See https://owasp.org/www-chapter-timisoara/ for more information about the OWASP Timisoara chapter.
+Theme sessions - Theme: Bug Bounty and Cloud Security 
+
+**`18:00`**` Welcome participants`
+
+**`18:15`**` Introduction, OWASP News & Updates - Catalin Curelaru`
+
+**`18:30`**` Bug Bounty(Again) - Tomi Koski (Visma)`
+
+**`19:00`**` The bigger picture - Ovidiu Cical (Cyscale)`
+
+**`19:30`**` Networking`
+
+
+**Tomi Koski** - Red Team Engineer @ VISMA
+Tomi Koski has been working with IT-systems for many moons, actually since (the wonderful) 1990’s. He is passionate about anything related to security, combining both physical and virtual worlds. He is a constant learner and very curious person about life and bug bounties. Currently, he is working for Visma as a Red (read: Purple) Teamer
+
+*Bug Bounty(Again)*
+Abstract: My journey in the world of Bug Bounties, the good and bad. Story about how bug bounties have changed my life and why I think these are super fun and educational.
+
+**Ovidiu Cical** - Red Team Engineer @ VISMA
+Ovidiu is a cybersecurity enthusiast with 20 years of experience in IT. Ovidiu speaks at international conferences covering different topics of Cybersecurity and is not a stranger to the pro-bono work of running the OWASP chapter in Cluj-Napoca for many years in the past. Currently, he leads Cyscale, a cloud security startup developing a product from the heart of Cluj-Napoca.
+
+*The bigger picture*
+Abstract: The bigger picture: a context is critical in understanding your security posture. 
+Why a certain problem in one part of your cloud infrastructure may affect other areas of your cloud apps, how cloud data is secured, and how safe is the rest of your cloud estate.
+
+
+# Past events
+
+## OWASP Timisoara \#23: Secure Coding Tournament [IN-PERSON]
+
+The next OWASP Timisoara Chapter Meetup will be in person.
+
+See https://owasp.org/www-chapter-timisoara/ for more information about the OWASP Timisoara chapter.
+Theme sessions - Theme: Secure Coding Tournament
+
+`Schedule` `Time:`` 18:00 to 21:00`
+
+18:00 - 18:20 - Welcome participants - Lucian Patian (Haufe)
+18:20 - 18:30 - Introduction, OWASP News & Updates - Catalin Curelaru
+Secure code
+18:30 - 19:45 - Secure Coding Tournament
+19:45 - 20:00 - Prizes
+
+Location of the event: UBC0, et 15, Sediu Haufe.Group, Piața Consiliul Europei 2 · Timișoara
+
+Event powered by Haufe.Group & Secure Code Warrior
+
+More about the event:
+Secure Code Warrior brings you a defensive security-based tournament from a developer's perspective. The tournament allows you to test your skill in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability.
+
+You don’t need extensive programming knowledge as this will be a great way to learn the foundations and intermediates of leveraging code that is not only functional but is also secure.
+
+You can find the tournament step-by-step guide here: https://youtu.be/o8XhKK_eOOs
+
+The tournament is hosted physically by Haufe.Group and you can join through your laptop. The tournament it should take only a 1.5 hours, drop-in as you see fit during the duration of the event to complete all the challenges and win prizes!
+
 ## OWASP Timisoara \#22: 08 June 2023
 The next OWASP Timisoara Chapter Meeting will be in person.
 
@@ -113,8 +174,6 @@ Lucian Pătian is a Cloud Solutions Architect at Haufe Group Timisoara. With a S
 
 Abstract: We will discuss about why using the standard configurations in Cognito can make your application a security honeypot. How can you use AWS WAF to add an extra layer of protection and why using verified token attributes should be a must
 
-
-# Past events
 
 ## OWASP Timisoara \#21: 23 June 2022
 The next OWASP Timisoara Chapter Meeting will be online.
