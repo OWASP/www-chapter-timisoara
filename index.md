@@ -70,13 +70,13 @@ Theme sessions - Theme: Bug Bounty and Cloud Security
 **`19:30`**` Networking`
 
 
-**Tomi Koski** - Red Team Engineer @ VISMA
+**Tomi Koski** - Red Team Engineer @ Visma
 Tomi Koski has been working with IT-systems for many moons, actually since (the wonderful) 1990’s. He is passionate about anything related to security, combining both physical and virtual worlds. He is a constant learner and very curious person about life and bug bounties. Currently, he is working for Visma as a Red (read: Purple) Teamer
 
 *Bug Bounty(Again)*
 Abstract: My journey in the world of Bug Bounties, the good and bad. Story about how bug bounties have changed my life and why I think these are super fun and educational.
 
-**Ovidiu Cical** - Red Team Engineer @ VISMA
+**Ovidiu Cical** - Cloud Security Architect @ Cyscale
 Ovidiu is a cybersecurity enthusiast with 20 years of experience in IT. Ovidiu speaks at international conferences covering different topics of Cybersecurity and is not a stranger to the pro-bono work of running the OWASP chapter in Cluj-Napoca for many years in the past. Currently, he leads Cyscale, a cloud security startup developing a product from the heart of Cluj-Napoca.
 
 *The bigger picture*
