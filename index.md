@@ -53,22 +53,47 @@ Past chapter leaders
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
 
-## OWASP Timisoara \#24: Bug Bounty and Cloud Security [ONLINE]
-The next OWASP Timisoara Chapter Meetup will be Online
+## OWASP Timisoara \#25: Firewalls, Product Security & Contingency plans [IN-PERSON]
+The next OWASP Timisoara Chapter Meetup will be physical. 
 
 See https://owasp.org/www-chapter-timisoara/ for more information about the OWASP Timisoara chapter.
-Theme sessions - Theme: Bug Bounty and Cloud Security 
+Theme sessions: Firewalls, Product Security & Contingency plans
 
 **`18:00`**` Welcome participants`
 
-**`18:15`**` Introduction, OWASP News & Updates - Catalin Curelaru`
+**`18:10`**` Introduction, OWASP News & Updates - Catalin Curelaru`
 
-**`18:30`**` Bug Bounty(Again) - Tomi Koski (Visma)`
+**`18:15`**` Securing the Gates: The Hidden Flaws Behind the Firewall - Adrian Daniel BACANU (RAZDON)`
 
-**`19:00`**` The bigger picture - Ovidiu Cical (Cyscale)`
+**`18:50`**` Running a Product Security Assessment Program at scale - Alina NICULA (VISMA)`
 
-**`19:30`**` Networking`
+**`19:30`**` Contingency plan from security point of view - Adrian BARAN (VITESCO)`
 
+**`20:00`**` Networking`
+
+
+**Adrian Daniel BACANU** - CEO @ RAZDON
+Adrian Daniel BACANU is the CEO and co-founder of Razdon, a pioneering CyberSecurity startup. With 14 years of enterprise experience and a lifelong passion for hacking—now spanning two decades—Daniel brings a wealth of expertise to the cybersecurity field. He still offers some Security Architectural consultancy for different companies across Europe, and from time to time, he engages in bounty hunting. When not decoding the matrix of cyber threats, Daniel enjoys life with his wife and two boys, plays football twice a week, and maintains a spirited sense of humor—because in cybersecurity, sometimes, you really can't afford to joke
+
+*Securing the Gates: The Hidden Flaws Behind the Firewall*
+Abstract: Effective cybersecurity is not just about having defenses in place but ensuring they are properly designed. 'Securing the Gates: The Hidden Flaws Behind the Firewall' illuminates the common pitfalls in firewall implementations that often go unnoticed. This presentation will demonstrate typical design errors that compromise security and provide actionable insights on how to rectify these flaws to create robust defenses. Attendees will learn how to not only deploy but also optimize firewalls to safeguard their digital assets effectively
+
+**Alina NICULA** - VASP Lead and Product security assessment Service Owner and reviewer  @ VISMA
+Alina has been working within product development teams as a software developer, security engineer, software and cloud service architect. In the last years she focused on software security by guiding Visma teams into securing their applications, data, cloud workloads, and delivery pipelines to avoid potential cybersecurity risks.
+
+*Running a Product Security Assessment Program at scale*
+Abstract: Having a product security assessment program is essential for any company. It is equally critical to ensure that this program remains relevant over the time and is scalable as the company grows.In this presentation, I will discuss how we ensure that our designed processes empower development teams to make informed security decisions while also giving them ownership over the remediation of the security aspects that impact their products.
+However, achieving this goal requires a strong and knowledgeable security review team that supports the delivery teams with informed security by design best practices.
+So, how have we been able to grow our program? I hope you will leave this presentation with a clear understanding of our approach.
+
+**Adrian BARAN** - Security Manager @ VITESCO
+*Contingency plan from security point of view*
+Abstract: 
+
+
+# Past events
+
+## OWASP Timisoara \#24: Bug Bounty and Cloud Security [ONLINE]
 
 **Tomi Koski** - Red Team Engineer @ Visma
 Tomi Koski has been working with IT-systems for many moons, actually since (the wonderful) 1990’s. He is passionate about anything related to security, combining both physical and virtual worlds. He is a constant learner and very curious person about life and bug bounties. Currently, he is working for Visma as a Red (read: Purple) Teamer
@@ -82,9 +107,6 @@ Ovidiu is a cybersecurity enthusiast with 20 years of experience in IT. Ovidiu s
 *The bigger picture*
 Abstract: The bigger picture: a context is critical in understanding your security posture. 
 Why a certain problem in one part of your cloud infrastructure may affect other areas of your cloud apps, how cloud data is secured, and how safe is the rest of your cloud estate.
-
-
-# Past events
 
 ## OWASP Timisoara \#23: Secure Coding Tournament [IN-PERSON]
 
