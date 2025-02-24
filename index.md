@@ -52,7 +52,31 @@ Past chapter leaders
 
 [Please see our Meetup page for more details and to register as
 attendee](https://www.meetup.com/OWASP-Timisoara-Chapter/?scroll=true)
+## OWASP Timisoara \#26: Cybersecurity in Automotive and NIS2  [IN-PERSON]
+The next OWASP Timisoara Chapter Meetup will be physical. 
 
+See https://owasp.org/www-chapter-timisoara/ for more information about the OWASP Timisoara chapter.
+Theme sessions: Firewalls, Product Security & Contingency plans
+
+**`18:30`**` Welcome participants`
+
+**`18:40`**` Introduction, OWASP News & Updates - Catalin Curelaru`
+
+**`19:10`**` Cybersecurity in the context of an evolving Automotive industry. - Romano Perini (Continental)`
+
+**`19:40`**` NIS2 and the impact on your company - Monica Iovan (Visma)`
+
+**`19:45`**` Networking`
+
+
+**Romano Perini** - Product Cybersecurity and Privacy Officer @ Continental
+With over 18 years of experience in Product Development—15 of those in the Automotive industry—Romano Perini is an aims to be a forward-thinking leader in technology. As the Product Security Officer for ACM Commercial and Special Vehicles at Continental Automotive, Romano brings a unique combination of technical expertise, customer-focused innovation, and an insatiable curiosity to every challenge he faces.
+
+**Monica Iovan** - CISO for the Medium Segment @ VISMA
+Monica Iovan is a cybersecurity leader and CISO for the Medium Segment in Visma, with extensive experience in securing digital environments and managing cyber risks. She specializes in building resilient security programs using research methodologies, strengthening security posture of the companies, and navigating evolving threats. Known for her pragmatic approach, she provides actionable insights to help organizations enhance their security posture in an increasingly complex landscape.
+
+
+# Past events
 ## OWASP Timisoara \#25: Firewalls, Product Security & Contingency plans [IN-PERSON]
 The next OWASP Timisoara Chapter Meetup will be physical. 
 
@@ -66,8 +90,6 @@ Theme sessions: Firewalls, Product Security & Contingency plans
 **`18:15`**` Securing the Gates: The Hidden Flaws Behind the Firewall - Adrian Daniel BACANU (RAZDON)`
 
 **`18:50`**` Running a Product Security Assessment Program at scale - Alina NICULA (VISMA)`
-
-**`19:30`**` Contingency plan from security point of view - Adrian BARAN (VITESCO)`
 
 **`20:00`**` Networking`
 
@@ -86,12 +108,7 @@ Abstract: Having a product security assessment program is essential for any comp
 However, achieving this goal requires a strong and knowledgeable security review team that supports the delivery teams with informed security by design best practices.
 So, how have we been able to grow our program? I hope you will leave this presentation with a clear understanding of our approach.
 
-**Adrian BARAN** - Security Manager @ VITESCO
-*Contingency plan from security point of view*
-Abstract: 
 
-
-# Past events
 
 ## OWASP Timisoara \#24: Bug Bounty and Cloud Security [ONLINE]
 
