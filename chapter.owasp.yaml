@@ -1,0 +1,23 @@
+leaders:
+  - name: Catalin Curelaru
+    email: catalin.curelaru@owasp.org
+  - name: Daniel Ilies
+    email: d.ilies@owasp.org
+location:
+  country: Romania
+  country_code: RO
+  region: Timiș County
+  city: Timisoara
+  latitude: 45.7538355
+  longitude: 21.2257474
+meetup_group: OWASP-Timisoara-Chapter
+name: OWASP Timisoara
+repositories:
+  - name: www-chapter-timisoara
+    url: https://github.com/OWASP/www-chapter-timisoara
+    description: 'OWASP Timisoara Chapter '
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-timisoara
